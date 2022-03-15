@@ -7,10 +7,10 @@ The purpose of this analysis is to assist Maria and her supervisors because they
 
 **Results**
 
-        _How is the district summary affected?_
+        __How is the district summary affected?_
         _How is the school summary affected?_
         _How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?_
-        _How does replacing the ninth-graders scores affect the following_
+        _How does replacing the ninth-graders scores affect the following__
               **Math and reading scores**
               **Scores by school spending**
               **Scores by school size**
