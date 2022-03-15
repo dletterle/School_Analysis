@@ -8,7 +8,29 @@ The purpose of this analysis is to assist Maria and her supervisors because they
 **Results**
 
         __How is the district summary affected?_
-        _How is the school summary affected?_
+        
+        -Before Data Management:
+                -Average Math Score = 79.0
+                -Average Reading Score = 81.9
+                -Percent Passing Math = 75
+                -Percent Passing Reading = 86
+                -Percent of Overall Passing = 65
+       
+<img width="473" alt="Before Data Management" src="https://user-images.githubusercontent.com/99268646/158287758-9db25dd2-386c-455f-8914-44e07dbca7bb.png">
+                         
+        -After Data Management:
+                -Average Math Score = 78.9
+                -Average Reading Score = 81.9
+                -Percent Passing Math = 74.8 
+                -Percent Passing Reading = 85.7
+                -Percent of Overall Passing = 64.9
+                
+<img width="473" alt="After Data Management" src="https://user-images.githubusercontent.com/99268646/158287809-67f79a74-fa24-4183-badf-1b323fc355c2.png">
+            
+        _How is the school summary affected?_        
+        
+        
+       
         _How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?_
         _How does replacing the ninth-graders scores affect the following__
               **Math and reading scores**
