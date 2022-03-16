@@ -53,7 +53,9 @@ _How Does Replacing the Ninth-Grade Scores Affect the Following:_
 *   Scores by school spending:
     *    Thomas High School fell into a smaller bin of spending between "$630-644"
 
+
 <img width="653" alt="School Budget" src="https://user-images.githubusercontent.com/99268646/158658388-e3b5ff67-f8c1-48bb-b531-65bdad67c4d7.png">
+
 
 
 *   Scores by school size:
@@ -61,10 +63,13 @@ _How Does Replacing the Ninth-Grade Scores Affect the Following:_
 
 <img width="260" alt="Student Count Before Data Management" src="https://user-images.githubusercontent.com/99268646/158657675-f7653eae-f32b-4738-8ad3-5ac12c54214a.png">
 
+
 <img width="721" alt="School Summary After Data Management" src="https://user-images.githubusercontent.com/99268646/158657700-a3f2be67-219a-47e9-b86e-c739d8ebcdd1.png">
- 
+
+
 *   Scores by school type:
     *    Thomas High School is a "Charter" type school. While removing the ninth-grade scores does not affect the type of school Thomas High School is, it does impact the school by being a charter school and most likely receiving a secondary funding source, criteria must be met and these decreases in scores is likely to impact grant opportunities. Because of the decrease in Percent Passing Math, Percent Passing Reading, and Percent Overall Passing it dropped the school in rankings compared to other charter schools and may impact secondary funding opportunities. 
+
 
 <img width="116" alt="School Type" src="https://user-images.githubusercontent.com/99268646/158657962-5e5b6da1-e884-435e-9eff-f180406303cf.png">
 
