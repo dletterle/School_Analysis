@@ -7,7 +7,7 @@ The purpose of this analysis is to assist Maria and her supervisors because they
 
 **Results**
   
-  _How is the District Summary Affected?_
+_How is the District Summary Affected?_
   
   -Before Data Management:
         
@@ -39,8 +39,11 @@ The purpose of this analysis is to assist Maria and her supervisors because they
             
  When comparing the two data frames from before data management and after data management, there appears to be changes in %Passing Math.
  
-   _How is the School Summary Affected?_
+_How is the School Summary Affected?_
+     
      -Before Data Management:
+       
+       
        -Thomas High School was placing second with a Percent of Overall Passing as 91
      -After Data Management:
         
