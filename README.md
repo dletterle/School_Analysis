@@ -9,7 +9,7 @@ The purpose of this analysis is to assist Maria and her supervisors because they
   
 _How is the District Summary Affected?_
 
-When comparing the two data frames from before data management and after data management, there appears to be changes in Percent Passing Math.
+The district summary is affected when comparing the two data frames from before data management and after data management, there appears to be changes in Percent Passing Math.
     
     -Before Data Management:
         
@@ -40,15 +40,19 @@ When comparing the two data frames from before data management and after data ma
 <img width="473" alt="After Data Management" src="https://user-images.githubusercontent.com/99268646/158287809-67f79a74-fa24-4183-badf-1b323fc355c2.png">
  
 _How is the School Summary Affected?_
-     
-     -Before Data Management:
-       
-       
-       -Thomas High School was placing second with a Percent of Overall Passing as 91
-     -After Data Management:
-        
-       
-        _How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?_
+
+The school summary is affected when comparing the two data frames from before and after data management, there appears to be changes where Thomas High School is ranked based on overall passing. Before data management, Thomas High School is ranked second with a Percent of Overall Passing at 91. After data management, Thomas High School is ranked eighth with a Percent of OVerall Passing at 65. 
+
+
+_How Does Replacing the Ninth Graders' Math and Reading Scores Affect Thomas High School's Performance Relative to the Other Schools?_
+
+As stated previously, when the ninth grade math and reading scores are corrected for Thomas High School, when compared to other schools, the school drops in ranking from second to eigth. 
+
+_How Does Replacing the Ninth-Grade Scores Affect the Following:_
+
+  **Math and Reading Scores**
+
+
         _How does replacing the ninth-graders scores affect the following__
               **Math and reading scores**
               **Scores by school spending**
