@@ -8,6 +8,8 @@ The purpose of this analysis is to assist Maria and her supervisors because they
 **Results**
   
 _How is the District Summary Affected?_
+
+When comparing the two data frames from before data management and after data management, there appears to be changes in Percent Passing Math.
     
     -Before Data Management:
         
@@ -36,8 +38,6 @@ _How is the District Summary Affected?_
         -Percent of Overall Passing: 64.9
                 
 <img width="473" alt="After Data Management" src="https://user-images.githubusercontent.com/99268646/158287809-67f79a74-fa24-4183-badf-1b323fc355c2.png">
-            
- When comparing the two data frames from before data management and after data management, there appears to be changes in %Passing Math.
  
 _How is the School Summary Affected?_
      
