@@ -8,8 +8,7 @@ The purpose of this analysis is to assist Maria and her supervisors because they
 **Results**
   
 _How is the District Summary Affected?_
-  
-  -Before Data Management:
+    -Before Data Management:
         
         -Average Math Score: 79.0
         
