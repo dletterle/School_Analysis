@@ -50,7 +50,7 @@ As stated previously, when the ninth grade math and reading scores are corrected
 
 _How Does Replacing the Ninth-Grade Scores Affect the Following:_
 
-  **Math and Reading Scores**
+    **Math and Reading Scores**
 
 
         _How does replacing the ninth-graders scores affect the following__
