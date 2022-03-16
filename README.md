@@ -6,8 +6,10 @@ An analysis of school district information regarding preparing all standardized 
 The purpose of this analysis is to assist Maria and her supervisors because they have been notified from the school board of academic dishonesty, specifically reading and match grades for Thomas High School ninth graders. Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards and have turned to Maria for assistance. Maria has in turn askeded to replace the match and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. Once the math and reading scores are replaced, Maria has also requested for the process to be repeated for the school district analysis. 
 
 **Results**
+  
   _How is the District Summary Affected?_
-    -Before Data Management:
+  
+  -Before Data Management:
         -Average Math Score: 79.0
         -Average Reading Score: 81.9
         -Percent Passing Math: 75
@@ -17,6 +19,7 @@ The purpose of this analysis is to assist Maria and her supervisors because they
 <img width="473" alt="Before Data Management" src="https://user-images.githubusercontent.com/99268646/158287758-9db25dd2-386c-455f-8914-44e07dbca7bb.png">
                          
     -After Data Management:
+        
         -Average Math Score: 78.9
         -Average Reading Score: 81.9
         -Percent Passing Math: 74.8 
