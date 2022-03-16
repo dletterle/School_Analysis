@@ -76,4 +76,5 @@ _How Does Replacing the Ninth-Grade Scores Affect the Following:_
 
 **Summary**
 
+In summary there are changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School was replaced with NaNs. For example, (1) the Average Math Score, (2) the Average Reading Score, (3) the Passing Math Score, and (4) the Passing Reading score were all affected by the updated district analysis. 
 
