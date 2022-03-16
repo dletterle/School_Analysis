@@ -49,10 +49,14 @@ _How Does Replacing the Ninth-Grade Scores Affect the Following:_
     
 *   Math and reading scores by grade:
     *    Math and reading scores from Thomas High School 9th grade are set to NaN and equivalent to 0
-    *       
+    *    The student count for Thomas High School changed drastically with the count being 1635 before data management and 1174 after data managment. A change in count of "-461"   
 *   Scores by school spending:
-    *    Example
+    *    Thomas High School fell into a smaller bin of spending between "$630-644"
 *   Scores by school size:
-    *    Example
+    *    Thomas High School Percent Passing Math, Percent Passing Reading and Percent Overall Passing scores all declined when the ninth-grade scores were removed. This clearly shows that academic dishonesty did occur. 
 *   Scores by school type:
-    *    Example 
+    *    Thomas High School is a "Charter" type school. While removing the ninth-grade scores does not affect the type of school Thomas High School is, it does impact the school by being a charter school and most likely receiving a secondary funding source, criteria must be met and these decreases in scores is likely to impact grant opportunities. Because of the decrease in Percent Passing Math, Percent Passing Reading, and Percent Overall Passing it dropped the school in rankings compared to other charter schools and may impact secondary funding opportunities. 
+
+**Summary**
+
+
