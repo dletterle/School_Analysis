@@ -10,6 +10,7 @@ The purpose of this analysis is to assist Maria and her supervisors because they
 _How is the District Summary Affected?_
 
 The district summary is affected when comparing the two data frames from before data management and after data management, there appears to be changes in Percent Passing Math.
+
   **Before Data Management**
     
 *   Average Math Score: 79.0
@@ -35,19 +36,23 @@ _How is the School Summary Affected?_
 
 The school summary is affected when comparing the two data frames from before and after data management, there appears to be changes where Thomas High School is ranked based on overall passing. Before data management, Thomas High School is ranked second with a Percent of Overall Passing at 91. After data management, Thomas High School is ranked eighth with a Percent of OVerall Passing at 65. 
 
+<img width="758" alt="School Summary Before Data Management" src="https://user-images.githubusercontent.com/99268646/158649442-ef45d11a-165d-44db-b0a0-cde674c46843.png">
+
+<img width="721" alt="School Summary After Data Management" src="https://user-images.githubusercontent.com/99268646/158649461-708cfefe-7542-4d1f-9048-6f7f52742360.png">
+
 
 _How Does Replacing the Ninth Graders' Math and Reading Scores Affect Thomas High School's Performance Relative to the Other Schools?_
 
 As stated previously, when the ninth grade math and reading scores are corrected for Thomas High School, when compared to other schools, the school drops in ranking from second to eigth. 
 
 _How Does Replacing the Ninth-Grade Scores Affect the Following:_
-
-  **Math and Reading Scores**
-
-
-        _How does replacing the ninth-graders scores affect the following__
-              **Math and reading scores**
-              **Scores by school spending**
-              **Scores by school size**
-              **Scores by school type**
-        _Summary_       
+    
+*   Math and reading scores by grade:
+    *    Math and reading scores from Thomas High School 9th grade are set to NaN and equivalent to 0
+    *       
+*   Scores by school spending:
+    *    Example
+*   Scores by school size:
+    *    Example
+*   Scores by school type:
+    *    Example 
