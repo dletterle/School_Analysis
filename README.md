@@ -10,32 +10,24 @@ The purpose of this analysis is to assist Maria and her supervisors because they
 _How is the District Summary Affected?_
 
 The district summary is affected when comparing the two data frames from before data management and after data management, there appears to be changes in Percent Passing Math.
+  **Before Data Management**
     
-    -Before Data Management:
-        
-        -Average Math Score: 79.0
-        
-        -Average Reading Score: 81.9
-        
-        -Percent Passing Math: 75
-        
-        -Percent Passing Reading: 86
-        
-        -Percent of Overall Passing: 65
+*   Average Math Score: 79.0
+*   Average Reading Score: 81.9
+*   Percent Passing Math: 75
+*   Percent Passing Reading: 86
+*   Percent of Overall Passing: 65
        
 <img width="473" alt="Before Data Management" src="https://user-images.githubusercontent.com/99268646/158287758-9db25dd2-386c-455f-8914-44e07dbca7bb.png">
                          
-    -After Data Management:
-        
-        -Average Math Score: 78.9
-        
-        -Average Reading Score: 81.9
-        
-        -Percent Passing Math: 74.8 
-        
-        -Percent Passing Reading: 85.7
-        
-        -Percent of Overall Passing: 64.9
+  **After Data Management**
+    
+*   Average Math Score: 78.9
+*   Average Reading Score: 81.9
+*   Percent Passing Math: 74.8
+*   Percent Passing Reading: 85.7 
+*   Percent of Overall Passing: 64.9
+*   For the three counties the results are as follows: 
                 
 <img width="473" alt="After Data Management" src="https://user-images.githubusercontent.com/99268646/158287809-67f79a74-fa24-4183-badf-1b323fc355c2.png">
  
@@ -50,7 +42,7 @@ As stated previously, when the ninth grade math and reading scores are corrected
 
 _How Does Replacing the Ninth-Grade Scores Affect the Following:_
 
-    **Math and Reading Scores**
+  **Math and Reading Scores**
 
 
         _How does replacing the ninth-graders scores affect the following__
